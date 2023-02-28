@@ -10,4 +10,10 @@ Using Python, I developed a Telegram bot that has the capability of transcribing
 <img src="images/2.jpg" width=250 alignment=>  
 <br>  
 <img src="images/3.jpg" width=250 alignment=>    
+<br>
+<br>
+<h3>Limitations</h3>
+<em><li>Can only transcribe English audio files</li>
+<li>Doesn't Support Diarization</li></em>
+
 </p>  
