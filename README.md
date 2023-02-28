@@ -1,3 +1,4 @@
 # My-First-Telegram-Bot-Using-Python
-
-<img src="images/1.jpg" width=250>
+<p align="center">
+<img src="images/1.jpg" width=250 alignment=>
+</p>  
