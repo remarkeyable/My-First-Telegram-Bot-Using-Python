@@ -15,7 +15,7 @@ Using Python, I developed a Telegram bot that has the capability of transcribing
 </p>
 <p align="center">
 Features need to add
-<em><li>To transcribe other languages aside from English audio files</li>
+<em><li align="center">To transcribe other languages aside from English audio files</li>
 <li>To Support Diarization</li>
 <li>To Support Bilingual audio</em> </li>
 </p>
