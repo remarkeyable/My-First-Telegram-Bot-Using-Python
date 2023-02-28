@@ -12,10 +12,10 @@ Using Python, I developed a Telegram bot that has the capability of transcribing
 <img src="images/3.jpg" width=250 alignment=>    
 <br>
 <br>
- <p alignment="center"> 
+</p>
+<p align="center">
 <h3>Features need to add</h3>
 <em><li>To transcribe other languages aside from English audio files</li>
 <li>To Support Diarization</li>
-<li>To Support Bilingual audio</li></em>
+<li>To Support Bilingual audio</li></em> 
 </p>
-</p>  
