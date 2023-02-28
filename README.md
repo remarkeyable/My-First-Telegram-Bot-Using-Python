@@ -9,5 +9,5 @@ Using Python, I developed a Telegram bot that has the capability of transcribing
 <br>  
 <img src="images/2.jpg" width=250 alignment=>  
 <br>  
-<img src="images/2.jpg" width=250 alignment=>    
+<img src="images/3.jpg" width=250 alignment=>    
 </p>  
