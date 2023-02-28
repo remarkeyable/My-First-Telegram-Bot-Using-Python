@@ -5,5 +5,9 @@
 Using Python, I developed a Telegram bot that has the capability of transcribing audio files into text with the help of OpenAI Whisper technology.
 <br>
 <br>  
-<img src="images/1.jpg" width=250 alignment=>
+<img src="images/1.jpg" width=250>
+<br>  
+<img src="images/2.jpg" width=250 alignment=>  
+<br>  
+<img src="images/2.jpg" width=250 alignment=>    
 </p>  
