@@ -1,5 +1,5 @@
 <p align="center">
-<h1>My-First-Telegram-Bot-Using-Python</h1>
+<h1 align="center">My-First-Telegram-Bot-Using-Python</h1>
 </p>    
 <p align="center">
 Using Python, I developed a Telegram bot that has the capability of transcribing audio files into text with the help of OpenAI Whisper technology.
@@ -17,4 +17,5 @@ Using Python, I developed a Telegram bot that has the capability of transcribing
 <h3 align="center" >Features need to add </h3>
 <em><li align="center">To transcribe other languages aside from English audio files</li>
 <li align="center">To Support Diarization</li>
+<li align="center">To Support Bilingual audio</li>  
 
