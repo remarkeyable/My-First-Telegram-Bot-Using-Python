@@ -7,9 +7,9 @@ Using Python, I developed a Telegram bot that has the capability of transcribing
 <br>  
 <img src="images/1.jpg" width=250>
 <br>  
-<img src="images/2.jpg" width=250 alignment=>  
+<img src="images/2.jpg" width=250>  
 <br>  
-<img src="images/3.jpg" width=250 alignment=>    
+<img src="images/3.jpg" width=250>    
 <br>
 <br>
 
